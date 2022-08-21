@@ -1,6 +1,21 @@
-### Hi there 👋
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/20386725/185791205-a65eb689-b8d3-4b33-b575-afd2131bfd32.png" alt="my banner"></a>
+</p>
 
-I am Hashir Ahmed K B, currently working as a Software Engineer at [UST](https://www.ust.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+<h3 align="center">
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Hashir</a> 👋
+</h3>
+
+I am Hashir Ahmed K B, currently working as a Software Engineer at [UST](https://www.ust.com/). I am a Full-Stack JavaScript developer and I love writing clean and maintainable code. 
+
+### 🔭 I'm currently working on
+
+- Developing my skillset on Web3 Technologies.
+- Building clone apps
+- Documenting things that I'm learning.
+
+
+### ⬇ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-HashirAKB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hashirakb/)](https://www.linkedin.com/in/hashirakb/)
 [![Medium Badge](https://img.shields.io/badge/Dev-HashirAKB-12100E?style=flat-square&logo=medium&logoColor=white&link=https://devhashirakb.medium.com//)](https://devhashirakb.medium.com/)
@@ -8,7 +23,7 @@ I am Hashir Ahmed K B, currently working as a Software Engineer at [UST](https:/
 [![Facebook Badge](https://img.shields.io/badge/Hashir-1877F2?style=flat-square&logo=facebook&logoColor=white&link="")]()
 
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -28,7 +43,9 @@ I am Hashir Ahmed K B, currently working as a Software Engineer at [UST](https:/
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+### 📈 GitHub Stats 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hashirakb&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirakb&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hashirakb.hashirakb)
