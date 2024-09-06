@@ -1,6 +1,5 @@
-# Hashir Ahmed KB
-
 <div align="center">
+  <h1>Hashir Ahmed KB</h1>
   <h3>Full Stack Engineer | MERN Specialist | DevOps Enthusiast</h3>
   <p>
     <a href="mailto:ahmedhashir96@gmail.com">Email</a> •
