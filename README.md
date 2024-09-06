@@ -1,50 +1,64 @@
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/20386725/185791205-a65eb689-b8d3-4b33-b575-afd2131bfd32.png" alt="my banner"></a>
-</p>
+# Hashir Ahmed KB
 
-<h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Hashir</a> 👋
-</h3>
+<div align="center">
+  <h3>Full Stack Engineer | MERN Specialist | DevOps Enthusiast</h3>
+  <p>
+    <a href="mailto:ahmedhashir96@gmail.com">Email</a> •
+    <a href="https://github.com/HashirAKB">GitHub</a> •
+    <a href="https://linkedin.com/in/hashirakb">LinkedIn</a>
+  </p>
+</div>
 
-I am Hashir Ahmed K B, currently working as a Software Engineer at [UST](https://www.ust.com/). I am a Full-Stack JavaScript developer and I love writing clean and maintainable code. 
+---
 
-### 🔭 I'm currently working on
+## 👨‍💻 About Me
 
-- Developing my skillset on Web3 Technologies.
-- Building clone apps
-- Documenting things that I'm learning.
+I'm a Full Stack Engineer with nearly 3 years of experience in designing and building robust, scalable web applications. I specialize in the MERN stack and have a strong foundation in DevOps practices. I'm passionate about clean code, system design, and optimizing application performance.
 
+## 🚀 Current Focus
 
-### ⬇ Find out more about me & feel free to connect with me here:
+- Expanding my expertise in Web3 technologies
+- Building and optimizing full-stack applications
+- Deepening my knowledge of cloud infrastructure and serverless architectures
+- Documenting my learning journey and sharing knowledge
 
-[![Linkedin Badge](https://img.shields.io/badge/-HashirAKB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hashirakb/)](https://www.linkedin.com/in/hashirakb/)
-[![Medium Badge](https://img.shields.io/badge/Dev-HashirAKB-12100E?style=flat-square&logo=medium&logoColor=white&link=https://devhashirakb.medium.com//)](https://devhashirakb.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-ahmedhashir96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedhashir96@gmail.com)](mailto:ahmedhashir96@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Hashir-1877F2?style=flat-square&logo=facebook&logoColor=white&link="")]()
+## 🛠️ Technologies & Tools
 
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Recoil
+- **Backend:** Node.js, Express.js, GraphQL, REST APIs
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **ORM:** Prisma
+- **DevOps:** Docker, Kubernetes, AWS, CI/CD
+- **Other:** WebSockets, WebRTC, Serverless Architectures
 
-### ⚡ Technologies
+## 🌟 Featured Projects
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+1. [Medium Vanced](https://github.com/HashirAKB/Medium) - Full-stack blogging platform
+   - **Tech Stack:** React, TypeScript, Express.js, PostgreSQL, Prisma ORM
+   - [Live Demo](https://medium-vanced.vercel.app)
 
-### 📈 GitHub Stats 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hashirakb&count_private=true&show_icons=true&include_all_commits=true)
+2. [PayTM Wallet](https://github.com/HashirAKB/Paytm-Wallet) - Digital wallet application
+   - **Tech Stack:** React, Node.js, Express.js, MongoDB, Docker
+   - [Live Demo](https://paytm-l3vn.onrender.com)
+
+3. [HeadPhone Store](https://github.com/HashirAKB/headphone-store) - Animated e-commerce frontend
+   - **Tech Stack:** React, Tailwind CSS, Framer Motion
+   - [Live Demo](https://github.com/HashirAKB/headphone-store)
+
+## 📈 GitHub Stats
+
+[![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashirAKB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/hashirakb](https://linkedin.com/in/hashirakb)
+- Email: [ahmedhashir96@gmail.com](mailto:ahmedhashir96@gmail.com)
+- GitHub: [github.com/HashirAKB](https://github.com/HashirAKB)
+
+---
+
+💼 Open for exciting opportunities and collaborations!
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirakb&hide=TeX&layout=compact)
 
