@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hashir Ahmed KB</h1>
-  <h3>Full Stack Engineer | MERN Specialist | DevOps Enthusiast</h3>
+  <h3>Full Stack Engineer | MERN Specialist | Web3 Enthusiast</h3>
   <p>
     <a href="mailto:ahmedhashir96@gmail.com">Email</a> •
     <a href="https://github.com/HashirAKB">GitHub</a> •
