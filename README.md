@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hashir Ahmed KB</h1>
-  <h3>Full Stack Engineer | MERN | Blockchain Developer</h3>
+  <h3>Full Stack Engineer | MERN | Web3 & Blockchain Developer</h3>
   <p>
     <a href="mailto:ahmedhashir96@gmail.com">Email</a> •
     <a href="https://github.com/HashirAKB">GitHub</a> •
@@ -12,26 +12,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Engineer with nearly 3 years of experience in designing and building robust, scalable web applications. I specialize in the MERN stack and have a strong foundation in DevOps practices. I'm passionate about clean code, system design, and optimizing application performance.
+I'm a Full Stack Engineer with nearly 4 years of experience in designing and building robust, scalable web applications. I specialize in the MERN stack and have extensive knowledge in Web3/Blockchain development. Currently working at Teckollab on next-generation sports sponsorship platforms while passionate about decentralized technologies, smart contracts, and building the future of web applications.
+
+🎓 **Certified Blockchain Developer** - Kerala Blockchain Academy (ABCD Program)
 
 ## 🚀 Current Focus
 
-- Expanding my expertise in Web3 technologies
-- Building and optimizing full-stack applications
-- Deepening my knowledge of cloud infrastructure and serverless architectures
-- Documenting my learning journey and sharing knowledge
+- Building production-ready Web3 applications and smart contracts
+- Developing full-stack applications with modern architecture
+- Exploring DeFi protocols and decentralized application patterns
+- Contributing to open-source Web3 projects
+- Deepening expertise in cloud infrastructure and DevOps practices
 
 ## 🛠️ Technologies & Tools
 
+### **Web2 Stack**
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Recoil
-- **Backend:** Node.js, Express.js, GraphQL, REST APIs
+- **Backend:** Node.js, Express.js, .NET, GraphQL, REST APIs
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **ORM:** Prisma
-- **DevOps:** Docker, Kubernetes, AWS, CI/CD
-- **Other:** WebSockets, WebRTC, Serverless Architectures
+- **DevOps:** Docker, Kubernetes, Google Cloud, AWS, CI/CD
+
+### **Web3 Stack**
+- **Smart Contracts:** Solidity, Foundry, Hardhat
+- **Blockchain Integration:** Web3.js, Ethers.js
+- **Development:** DApps, Smart Contract Testing & Deployment
+- **Platforms:** Ethereum, Polygon, Testnet Development
 
 ## 🌟 Featured Projects
 
+### **Web3 Projects**
+1. [Decentralized Voting DApp](https://github.com/HashirAKB/decentralized-voting) - Blockchain-based voting system
+   - **Tech Stack:** Solidity, React, Ethers.js, Hardhat
+   - Transparent, tamper-proof voting with smart contract automation
+   - [Live Demo](https://your-voting-dapp-url.com)
+
+2. [Web3 Portfolio](https://github.com/HashirAKB/web3-projects) - Collection of blockchain projects
+   - **Tech Stack:** Solidity, Foundry, React, Web3.js
+   - Smart contracts, DeFi interactions, and token development
+
+### **Web2 Projects**
 1. [Medium Vanced](https://github.com/HashirAKB/Medium) - Full-stack blogging platform
    - **Tech Stack:** React, TypeScript, Express.js, PostgreSQL, Prisma ORM
    - [Live Demo](https://medium-vanced.vercel.app)
@@ -43,6 +63,13 @@ I'm a Full Stack Engineer with nearly 3 years of experience in designing and bui
 3. [HeadPhone Store](https://github.com/HashirAKB/headphone-store) - Animated e-commerce frontend
    - **Tech Stack:** React, Tailwind CSS, Framer Motion
    - [Live Demo](https://github.com/HashirAKB/headphone-store)
+
+## 🏆 Certifications & Achievements
+
+- **Accelerated Blockchain Competency Development (ABCD)** - Kerala Blockchain Academy
+- **Full Stack Development Certification** - Kerala Blockchain Academy
+- **3+ Years** of production experience at UST Global & Teckollab
+- **8+ Major Features** delivered in current role (Campaign management, Contract automation)
 
 ## 📈 GitHub Stats
 
@@ -56,8 +83,7 @@ I'm a Full Stack Engineer with nearly 3 years of experience in designing and bui
 
 ---
 
-💼 Open for exciting opportunities and collaborations!
-
+💼 Open for exciting Web3 opportunities and collaborations in the decentralized future!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirakb&hide=TeX&layout=compact)
 
